@@ -3,72 +3,85 @@
    "files": [    
 
 {
-         "name": "AIS WECHAT-01-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/AIS_WECHAT_15Day_1.ovpn"
+         "name": "AIS PLAY-01-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/AIS-VPS-01.ovpn"
       },
 
 {
-         "name": "AIS WECHAT-02-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/AIS_WECHAT_15Day_2.ovpn"
+         "name": "AIS PLAY-02-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/AIS-VPS-02.ovpn"
       },
 
 {
-         "name": "AIS WECHAT-03-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/AIS_WECHAT_15Day_3.ovpn"
+         "name": "AIS PLAY-03-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/AIS-VPS-03.ovpn"
       },
 
+{
+         "name": "AIS PLAY-04-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/AIS-VPS-04.ovpn"
+      },
+
+{
+         "name": "AIS PLAY-05-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/AIS-VPS-05.ovpn"
+      },
 
 {
          "name": "DTAC NOPRO-01-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/DTAC_LAZADA_15Day_1.ovpn"
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/DTAC-VPS-01.ovpn"
       },
 
 {
          "name": "DTAC NOPRO-02-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/DTAC_LAZADA_15Day_2.ovpn"
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/DTAC-VPS-02.ovpn"
       },
 
 {
          "name": "DTAC NOPRO-03-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/DTAC_LAZADA_15Day_3.ovpn"
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/DTAC-VPS-03.ovpn"
       },
 
 
 {
-         "name": "DTAC LINE12app-01-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/DTAC_LINE_15Day_1.ovpn"
+         "name": "DTAC NOPRO-04-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/DTAC-VPS-04.ovpn"
       },
 
 {
-         "name": "DTAC LINE12app-02-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/DTAC_LINE_15Day_2.ovpn"
-      },
-
-{
-         "name": "DTAC LINE12app-03-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/DTAC_LINE_15Day_3.ovpn"
+         "name": "DTAC NOPRO-05-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/DTAC-VPS-05.ovpn"
       },
 
 
 {
          "name": "TRUE NO FREE-01-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/TRUE_NOPRO_15Day_1.ovpn"
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/TRUE-VPS-01.ovpn"
       },
 
 {
          "name": "TRUE NO FREE-02-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/TRUE_NOPRO_15Day_2.ovpn"
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/TRUE-VPS-02.ovpn"
       },
 
 {
          "name": "TRUE NO FREE-03-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/TRUE_NOPRO_15Day_3.ovpn"
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/TRUE-VPS-03.ovpn"
+      },
+
+{
+         "name": "TRUE NO FREE-04-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/TRUE-VPS-04.ovpn"
+      },
+
+{
+         "name": "TRUE NO FREE-05-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/KO-PHYO-VPN-PRO/main/TRUE-VPS-05.ovpn"
       }
 
-
    ],
-"message":"DTAC Nopro🌺DTAC Line12app🌸TRUE Nofree🌺AIS Wechat🌸\n\n•၇ရက်သားသမီးအားလုံး🌺ကိုယ်စိတ်နှစ်ြဖာကျန်းမာရွှင်လန်းပါ‌ေစ\n•Update 12 January 2022\n\n•Config by Myo Min Tun",
-   "title":"ဖိုင်အသစ် အပ်ဒိတ်လုပ်ရန် အင်တာနက်လိုပါသည်" ,
-   "version": 1
+"message":"DTAC Nopro🌺🌸TRUE Nofree🌺AIS Play🌸\n\n•၇ရက်သားသမီးအားလုံး🌺ကိုယ်စိတ်နှစ်ြဖာကျန်းမာရွှင်လန်းပါ‌ေစ\n•Update 15 February 2022\n\n•Config by Myo Min Tun",
+"title":"ဖိုင်အသစ် အပ်ဒိတ်လုပ်ရန် အင်တာနက်လိုပါသည်" , 
+"version": 2
 }
 
